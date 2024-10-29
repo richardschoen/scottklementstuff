@@ -6,21 +6,21 @@
 Not sure for how long.
 
 # List of IBM i Utility Files
-CSVutil.zip - CSV Utility   
+csvutil - CSV Utility   
 
-UnixCmd.zip - Unix Command   
+unixcmd - Unix Command   
 
-YAJL.zip - YAJL JSON processing library   
+yajlL - YAJL JSON processing library   
 
-base64-v1.1.zip - Base64 Service Program    
+base64 - Base64 Service Program    
 
-expat-2.1.0.savf - Expat XML processing library    
+expat - Expat XML processing library    
 
-ftpapi-2.8.savf - FTP API library    
+ftpapi - FTP API library    
 
-httpapi-1.51.savf - HTTP API library   
+httpapi - HTTP API library   
 
-traceroute.savf - Traceroute utility library   
+traceroute - Traceroute utility library   
 
 
 
