@@ -6,7 +6,7 @@
 Not sure for how long.
 
 # List of IBM i Utility Files
-```base64``` - Base64 Service Program    
+```base64``` - Base64 service program    
 
 ```csv``` - CSV utility   
 
