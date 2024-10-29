@@ -23,6 +23,8 @@ https://web.archive.org/web/20240000000000*/scottklement.com
 
 ```jdbc``` - Access external databases with RPG  
 
+```poi``` - HSSF/POI Excel with RPG   
+
 ```traceroute``` - Traceroute utility library   
 
 ```unixcmd``` - Unix command    
