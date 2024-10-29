@@ -6,7 +6,7 @@
 Not sure for how long.
 
 # List of IBM i Utility Files
-csvutil - CSV Utility   
+csv - CSV Utility   
 
 unixcmd - Unix Command   
 
@@ -21,8 +21,3 @@ ftpapi - FTP API library
 httpapi - HTTP API library   
 
 traceroute - Traceroute utility library   
-
-
-
-
-
