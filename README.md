@@ -6,18 +6,22 @@
 Not sure for how long.
 
 # List of IBM i Utility Files
-csv - CSV Utility   
+```base64``` - Base64 Service Program    
 
-unixcmd - Unix Command   
+```csv``` - CSV utility   
 
-yajlL - YAJL JSON processing library   
+```expat``` - Expat XML processing library    
 
-base64 - Base64 Service Program    
+```ftpapi``` - FTP API library    
 
-expat - Expat XML processing library    
+```httpapi``` - HTTP API library   
 
-ftpapi - FTP API library    
+```ifsebook``` - IFS ebook
 
-httpapi - HTTP API library   
+```jdbc``` - Access external databases with RPG  
 
-traceroute - Traceroute utility library   
+```traceroute``` - Traceroute utility library   
+
+```unixcmd``` - Unix command    
+
+```yajL``` - YAJL JSON processing library   
