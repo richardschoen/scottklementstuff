@@ -6,3 +6,5 @@ Unfortunately, I do not have any documentation or sample code for calling these 
 The code will only work on an EBCDIC system. If you want to do the same thing in VARPG or another ASCII-based version of RPG, you will have to modify the base64 tables. This won't be a problem on an iSeries system, of course.   
 
 Base64 is part of the MIME standard. For more information, please see section 6.8 of RFC 2045.   
+
+❗Info about installation is found in the README.TXT file in the ZIP archive.
