@@ -14,11 +14,13 @@ base64-v1.1.zip - Base64 Service Program
 
 expat-2.1.0.savf - Expat XML processing library    
 
-ftpapi-2.8.savf - FTP API processing library    
+ftpapi-2.8.savf - FTP API library    
 
-httpapi-1.51.savf - HTTP APi processing library   
+httpapi-1.51.savf - HTTP API library   
 
 traceroute.savf - Traceroute utility library   
+
+
 
 
 
