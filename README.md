@@ -5,6 +5,9 @@
 
 Not sure for how long.
 
+Some content is available here:   
+https://web.archive.org/web/20240000000000*/scottklement.com   
+
 # List of IBM i Utility Files
 ```base64``` - Base64 service program    
 
