@@ -1,9 +1,9 @@
 # Scott Klement Stuff
-This repo is a place to make available Scott Klement's libraries and samples. 
+10/28/2024 - This repo is a place to make available Scott Klement's libraries and samples. 
 
-10/28/2024 - This is only meant to ba a backup site as Scott's domain has gone offline entirely.      
+❗ This is only meant to ba backup site as Scott's domain has gone offline entirely. 
 
-Not sure for how long.    
+Not sure for how long.
 
 # List of IBM i Utility Files
 CSVutil.zip - CSV Utility   
