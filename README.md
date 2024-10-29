@@ -1,7 +1,7 @@
 # Scott Klement IBM i Programming Stuff
 10/28/2024 - This repo is a place to make available Scott Klement's IBM i libraries and samples. 
 
-❗ This is only meant to ba backup site as Scott's domain has gone offline entirely. 
+❗ This is only meant to be a backup site as Scott's domain has gone offline entirely. 
 
 Not sure for how long.
 
