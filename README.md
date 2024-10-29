@@ -1,7 +1,7 @@
 # Scott Klement Stuff
 This repo is a place to make available Scott Klement's libraries and samples. 
 
-This is only meant to ba a backup site as Scott's domain has gone offline entirely.      
+10/28/2024 - This is only meant to ba a backup site as Scott's domain has gone offline entirely.      
 
 Not sure for how long.    
 
