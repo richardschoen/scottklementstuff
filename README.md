@@ -2,7 +2,7 @@
 Scotts site is still available. Visit his site here:
 https://www.scottklement.com
 
-This repo was meant to be a just inc case backup. 
+This repo was meant to be a just in case backup. 
 
 10/28/2024 - This repo is a place to make available Scott Klement's IBM i libraries and samples. 
 
