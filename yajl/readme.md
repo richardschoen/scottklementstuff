@@ -58,3 +58,11 @@ Jun 6, 2024 Fix regression of yajl_addnumf(*omit:val) since null support added i
 Sep 6, 2024 Clear cached element name for null elements when skip_null: true
 
 Sep 30, 2024 Add routines YAJL_getPathComp, YAJL_urlDecode
+
+## File list
+- yajl.zip - YAJL for IBM i   
+- yajlv6r1.zip - YAJL for IBM i - V6R1   
+- WORKINGJSON.zip - Working With JSON in RPG Sample Code   
+- STOCKQTY.zip - STOCKQTY Sample  
+- CUSTDETAIL.ZIP - Sample code for the blog entry "RPG and YAJL as well as Data-Into News  
+❗v7r2+ and DATA-INTO PTFs are required to use this with the DATA-INTO opcode.   
